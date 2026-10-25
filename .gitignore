@@ -1,0 +1,17 @@
+# Simulation generated files
+*.vcd
+*.out
+*.vvp
+# GTKWave save/config files
+*.gtkw
+
+# Quartus generated folders/files
+db/
+incremental_db/
+output_files/
+*.qws
+
+# Temporary files
+*.bak
+*.tmp
+/simp/
